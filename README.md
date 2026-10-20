@@ -1,6 +1,6 @@
 # MES Gateway
 
-A small Rust/Axum service that accepts semi-structured MES payloads and maps them to a consistent production telemetry format.
+A small Rust/Axum service that accepts semi-structured MES (Manufacturing Execution System) payloads and maps them to a consistent production telemetry format.
 
 ## Run
 
