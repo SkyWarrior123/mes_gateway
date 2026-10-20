@@ -13,7 +13,7 @@ The server listens on `http://localhost:8080`.
 ## API
 
 - `GET /health/live` and `GET /health/ready` return `200 OK`.
-- `POST /api/v1/ingest` accepts JSON and returns `201 Created` when mapping succeeds, or `400 Bad Request` for invalid or incomplete data.
+- `POST /api/v1/ingest` accepts JSON and returns `200 Created` when mapping succeeds, or `400 Bad Request` for invalid or incomplete data.
 
 Example:
 
